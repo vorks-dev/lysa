@@ -1,0 +1,10 @@
+Lysa - Photo Organizer
+
+Third-party components used:
+
+- Qt 6.9.2 (LGPL 3) - https://www.qt.io
+- Exiv2 (GPL-2) - https://www.exiv2.org
+- Expat (MIT) - https://libexpat.github.io
+- Brotli (MIT) - https://github.com/google/brotli
+- zlib (zlib License) - https://zlib.net
+- inih (BSD) - https://github.com/benhoyt/inih

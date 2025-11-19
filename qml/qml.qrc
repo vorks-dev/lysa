@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- Windows -->
+        <file>main.qml</file>
+        <file>settings.qml</file>
+        <file>photo.qml</file>
+
+        <!-- Utils -->
+        <file>qmldir</file>
+        <file>UI.qml</file>
+
+        <!-- Widgets -->
+        <file>MenuButton.qml</file>
+        <file>ToolBar.qml</file>
+        <file>SwipeAnimation.qml</file>
+
+        <!-- Icons -->
+        <file>icons/lysa.svg</file>
+    </qresource>
+</RCC>

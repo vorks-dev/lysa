@@ -1,0 +1,40 @@
+End-User License Agreement (EULA) for “Lysa - Photo Organizer”
+
+Version: 1.0
+Author: vorks. DEV (Jeremy Voß)
+
+1. License of the Software
+The Software is distributed under the terms of the GNU General Public License Version 3 (GPL-3).
+In case of any conflict between this EULA and the GPL3, the GPL-3 prevails.
+You can find the full GPL-3 text in the file “LICENSE.txt”.
+
+2. Third-Party Components
+The Software uses third-party libraries (Qt6, Exiv2, expat, Brotli, zlib, inih).  
+These components are licensed under their respective licenses, which are included in the “licenses” directory.
+
+3. Intended Use
+The Software is provided for organizing and browsing images stored locally on your device.
+The user remains solely responsible for compliance with applicable law when using the Software.
+
+4. No Warranty
+The Software is provided “as is”, without any express or implied warranty.  
+In particular, no warranty is given for:
+- correctness of metadata or processing results,
+- uninterrupted or error-free operation,
+- fitness for a particular purpose,
+- preservation or safety of user data.
+
+5. Limitation of Liability
+The developer is liable only in accordance with mandatory German law:
+- unlimited liability for intent (Vorsatz),
+- unlimited liability for gross negligence (grobe Fahrlässigkeit),
+- unlimited liability for injury to life, body, or health.
+
+For ordinary negligence (einfache Fahrlässigkeit), liability is limited to damages that are foreseeable and typical for this type of software.  
+Liability for indirect damages, loss of data, lost profits, or consequential damages is excluded to the extent permitted by law.
+
+6. Updates and Data Processing
+If future versions include update mechanisms or usage statistics, these will be documented in a separate Privacy Policy.
+
+7. Applicable Law
+This Agreement is governed by the laws of the Federal Republic of Germany.

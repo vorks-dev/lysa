@@ -1,0 +1,8 @@
+Lysa - Photo Organizer
+
+This software processes all data locally on your device.
+No personal data is transmitted to the developer or any third party.
+No analytics, telemetry, network requests, or cloud services are used.
+
+Future versions may include update checks or usage statistics.  
+Any collection of personal data will be documented and shown to users in a Privacy Policy in accordance with GDPR.
